@@ -1,0 +1,14 @@
+{
+    "tailwindCSS.includeLanguages": {
+        "css": "css",
+        "scss": "scss",
+        "less": "less",
+        "javascript": "javascript",
+        "typescript": "typescript"
+    },
+    "css.lint.unknownAtRules": "ignore",
+    "scss.lint.unknownAtRules": "ignore",
+    "css.validate": false,
+    "scss.validate": false,
+    "less.validate": false
+}
